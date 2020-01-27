@@ -47,7 +47,9 @@
     filter: grayscale(70%) !important;
 }
 
-
+.card{
+    width: 18rem;
+}
 
 
 
